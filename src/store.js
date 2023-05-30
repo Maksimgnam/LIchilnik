@@ -12,13 +12,13 @@ const Reducer = (state = initialState, action) => {
             return {
                 ...state,
                 value: state.value + 1,
-                money: state.money + 6.50
+                money: state.money + 2.50
             }
         case 'Minus':
             return {
                 ...state,
                 value: state.value - 1,
-                money: state.money - 6.50
+                money: state.money - 2.50
             }
 
         default:

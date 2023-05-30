@@ -15,7 +15,7 @@
 }
 
 .KiloWattCont {
-  width: 150px;
+  width: 210px;
   height: 80px;
   background-color: whitesmoke;
   border-radius: 10px;
@@ -23,7 +23,7 @@
   justify-content: center;
   align-items: center;
   position: relative;
-  left: 120px;
+  left: 95px;
   top: 30px;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .price {
-  font-size: 24px;
+  font-size: 20px;
   color: red;
 }
 
